@@ -3,7 +3,7 @@
 - 📱  Mobile App Developer.
 - 👨‍💻 SelfLearning Developer.
 - 👀 I’m interested in Android App Development.
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin ❤️MVVM 🔥Firebase
+- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin ❤️JAVA ❤️MVVM 🔥Firebase
 - 🌱 I’m currently learning C#.NET
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me gowtham.sai5@gmail.com
